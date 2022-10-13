@@ -17,4 +17,7 @@ vue 的远程调试工具 cnpm i -g @vue/devtools
 nginx 的配置文件 nginx/nginx.conf
 启动方式 window : start nginx 或者 nginx.exe  
 关闭 nginx -s stop 或者 nginx.exe -s quit
+vue-devtools 打开端口指令
 #listen 8080;
+
+4阶段测试接口  History|2017_Book_InterdisciplinaryPerspectivesO
