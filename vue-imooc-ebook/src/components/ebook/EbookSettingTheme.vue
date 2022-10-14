@@ -27,7 +27,6 @@ import { ebookMixin } from '../../utils/mixin'
 
 export default {
   mixins: [ebookMixin],
-
   methods: {
     setTheme (index) {
       const theme = this.themeList[index]
