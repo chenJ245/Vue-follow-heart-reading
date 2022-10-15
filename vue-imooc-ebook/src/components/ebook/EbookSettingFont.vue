@@ -77,7 +77,7 @@ export default {
     position: absolute;
     bottom: px2rem(48);
     left: 0;
-    z-index: 101;
+    z-index: 160;
     display: flex;
     flex-direction: column;
     width: 100%;

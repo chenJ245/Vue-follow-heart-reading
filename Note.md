@@ -20,4 +20,6 @@ nginx 的配置文件 nginx/nginx.conf
 vue-devtools 打开端口指令
 #listen 8080;
 
+flow: 'scrolled' 上下滑动 不支持苹果端 和 微信
+
 4阶段测试接口  History|2017_Book_InterdisciplinaryPerspectivesO
