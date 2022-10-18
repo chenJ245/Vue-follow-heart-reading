@@ -5,6 +5,7 @@ import store from './store'
 import i18n from './lang'
 import './assets/style/iocn.css'
 import './assets/style/global.scss'
+// import './mock' // 只支持text文本
 
 Vue.config.productionTip = false
 

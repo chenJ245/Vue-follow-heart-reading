@@ -23,3 +23,5 @@ vue-devtools 打开端口指令
 flow: 'scrolled' 上下滑动 不支持苹果端 和 微信
 
 4阶段测试接口  History|2017_Book_InterdisciplinaryPerspectivesO
+
+Css里面的数组的样子是 (()) 里面的括号就是 里面的每一项
